@@ -14,11 +14,12 @@ import notificationController from './app/controllers/notificationController';
 const routes = new Router();
 const upload = multer(multerConfig);
 
-routes.post('/users', UserController.store);
+routes.post('/sessions', sessionController.store);
 
 routes.use(authMiddleware);
 
-routes.post('/sessions', sessionController.store);
+routes.post('/users', UserController.store);
+
 routes.post('/appointments', AppointmentController.store);
 routes.get('/appointments', AppointmentController.index);
 routes.delete('/appointments/:id', AppointmentController.delete);
