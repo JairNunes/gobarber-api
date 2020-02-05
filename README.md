@@ -28,7 +28,7 @@
 
 ## :rocket: Technologies
 
-Prrojeto desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) com as tecnologias:
+Projeto desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) com as tecnologias:
 
 -  [Node.js][nodejs]
 -  [Express](https://expressjs.com/)
