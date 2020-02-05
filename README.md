@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  Agendador para barbearia
+  Api para agendador de barbearia
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jairnunes/gobarber-api.svg">
