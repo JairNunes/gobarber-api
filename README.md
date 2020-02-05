@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  Agendador de barbearia
+  Agendador para barbearia
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jairnunes/gobarber-api.svg">
@@ -58,7 +58,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ---
 
-Feito com ♥ por [Jair Nunes](https://www.linkedin.com/in/jairnunes/)
+Feito com ♥ por [Jair Nunes](https://www.linkedin.com/in/jair-nunes-77071950/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
